@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoenciso&label=Profile%20views&color=0e75b6&style=flat" alt="nicoenciso" /> </p>
 
-- 🔭 I’m currently working on **Collaborative projects at No-Country**
+- 🔭 I’m currently working on **Collaborative project at LawCase**
 
 - 🌱 I’m currently learning **Software Development at ISTEA**
 
