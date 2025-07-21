@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolás Enciso</h1>
-<h3 align="center">A passionate fullstack developer from Buenos Aires, Argentina</h3>
+<h3 align="center">A passionate software developer from Buenos Aires, Argentina</h3>
 
 ## What I'm doing presently?
  - 💻 I’m currently working on **Collaborative project at LawCase** as a Project Manager and Lead Frontend Developer
