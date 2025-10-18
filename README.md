@@ -6,7 +6,7 @@
 
  - 🎓 I’m currently learning **Software Development at ISTEA**
 
- - 💼 All of my projects are available at [https://nico-portfolio.netlify.app/](https://nico-portfolio.netlify.app/)
+ - 💼 All of my projects are available at [https://nicolas-enciso-dev.netlify.app/](https://nicolas-enciso-dev.netlify.app/)
 
 - 📫 How to reach me **enectrl@gmail.com**
 
