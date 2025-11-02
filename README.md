@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Buenos Aires, Argentina</h3>
 
 ## What I'm doing presently?
- - 💻 I’m currently working on **Collaborative project at LawCase** as a Project Manager, Technical Lead and FullStack Developer
+ - 💻 I’m currently working on **Collaborative project at LawCase** as a Team Lead and FullStack Developer
 
  - 🎓 I’m currently learning **Software Development at ISTEA**
 
