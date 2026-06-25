@@ -4,7 +4,7 @@
 ## What I'm doing presently?
  - 💻 I’m currently working on **Collaborative project at LawCase** as a FullStack Developer
 
- - 🎓 I’m currently learning **Software Development at ISTEA**
+ - 🎓 I’m a **Software Development graduate from ISTEA (Instituto Superior Tecnológico Empresarial Argentino)**
 
  - 💼 All of my projects are available at [https://nicolas-enciso-dev.netlify.app/](https://nicolas-enciso-dev.netlify.app/)
 
